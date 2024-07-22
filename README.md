@@ -52,7 +52,6 @@ pip install gTTS
 pip install playsound@git+https://github.com/taconi/playsound
 ```
 3 **Usage**
-## Usage
 
 After installing the necessary dependencies, you can run the voice assistant script:
 
@@ -90,3 +89,6 @@ python gtts.py
 - **Application Opening:**
   - Opens specified applications using voice commands.
 
+4 **License**
+
+This project is licensed under the MIT License. See the LICENSE file for details.
