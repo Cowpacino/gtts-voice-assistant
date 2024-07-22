@@ -17,51 +17,6 @@ This project is a simple voice assistant built using Python. It leverages severa
 
 ## Features
 
-- **Speech Recognition:** Converts spoken language into text.
-- **Text-to-Speech:** Converts text into spoken language using gTTS.
-- **Simple Commands Execution:** Execute basic commands like opening applications using voice commands.
-
-## Requirements
-
-The following Python packages are required for this project:
-
-- PyAudio
-- PySpeech
-- SpeechRecognition
-- Playsound
-- Requests
-- PyAppOpener
-- gTTS
-
-## Installation
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/your-username/gtts-voice-assistant.git
-   cd gtts-voice-assistant
-   ```
-
-2 **Install Dependencies**
-```bash
-pip install pyaudio
-pip install SpeechRecognition
-pip install requests
-pip install PyAppOpener
-pip install gTTS
-pip install playsound@git+https://github.com/taconi/playsound
-```
-3 **Usage**
-
-After installing the necessary dependencies, you can run the voice assistant script:
-
-```bash
-python gtts.py
-```
-
-
-## Features
-
 - **Greeting and User Identification:**
   - The assistant greets the user and asks for their name.
 
@@ -89,6 +44,37 @@ python gtts.py
 - **Application Opening:**
   - Opens specified applications using voice commands.
 
-4 **License**
+## Requirements
+
+The following Python packages are required for this project:
+
+- PyAudio
+- PySpeech
+- SpeechRecognition
+- Playsound
+- Requests
+- PyAppOpener
+- gTTS
+
+## Installation
+
+   ```bash
+   git clone https://github.com/your-username/gtts-voice-assistant.git
+   cd gtts-voice-assistant
+   pip install pyaudio
+   pip install SpeechRecognition
+   pip install requests
+   pip install PyAppOpener
+   pip install gTTS
+   pip install playsound@git+https://github.com/taconi/playsound
+   ```
+
+## Usage
+
+After installing the necessary dependencies, you can run the voice assistant script:
+python gtts.py
+
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
