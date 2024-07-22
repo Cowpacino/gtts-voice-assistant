@@ -39,7 +39,7 @@ def recordAudio():
     return data
 
 def get_weather(location):
-    api_key = "ff2b75811abb8db9935025b70596a823"
+    api_key = #GET YOUR API KEY AT openweathermap.org
     url = f"http://api.openweathermap.org/data/2.5/weather?q={location}&appid={api_key}&units=metric"
     print("URL:", url)
     response = requests.get(url)
