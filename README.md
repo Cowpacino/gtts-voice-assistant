@@ -57,7 +57,7 @@ The following Python packages are required for this project:
 
 ## Installation
 
-1. Clone the Eepositorie 
+1. Clone the Repository 
    ```bash
    git clone https://github.com/your-username/gtts-voice-assistant.git
    cd gtts-voice-assistant
