@@ -57,16 +57,20 @@ The following Python packages are required for this project:
 
 ## Installation
 
+1. Clone the Eepositorie 
    ```bash
    git clone https://github.com/your-username/gtts-voice-assistant.git
    cd gtts-voice-assistant
-   pip install pyaudio
-   pip install SpeechRecognition
-   pip install requests
-   pip install PyAppOpener
-   pip install gTTS
-   pip install playsound@git+https://github.com/taconi/playsound
-   ```
+   
+2. Install the APIs and Libraries required.
+
+    ```bash 
+     pip install pyaudio
+     pip install SpeechRecognition
+     pip install requests
+     pip install PyAppOpener
+     pip install gTTS
+     pip install playsound@git+https://github.com/taconi/playsound
 
 ## Usage
 
