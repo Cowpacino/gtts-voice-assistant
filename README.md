@@ -9,7 +9,6 @@ A bootstrapped voice assistant in Python utilizing various simple APIs for speec
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 
 ## Introduction
 
@@ -73,8 +72,3 @@ The following Python packages are required for this project:
 
 After installing the necessary dependencies, you can run the voice assistant script:
 python gtts.py
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
