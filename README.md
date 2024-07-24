@@ -75,4 +75,6 @@ The following Python packages are required for this project:
 ## Usage
 
 After installing the necessary dependencies, you can run the voice assistant script:
+
+```bash
 python gtts.py
