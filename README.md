@@ -68,7 +68,7 @@ The following Python packages are required for this project:
      pip install pyaudio
      pip install SpeechRecognition
      pip install requests
-     pip install PyAppOpener
+     pip install AppOpener
      pip install gTTS
      pip install playsound@git+https://github.com/taconi/playsound
 
