@@ -1,6 +1,6 @@
 # gTTs Voice Assistant
 
-A bootstrapped voice assistant in Python utilizing various APIs for speech synthesis and recognition.
+A bootstrapped voice assistant written in Python utilizing various APIs for speech synthesis and recognition.
 
 ## Table of Contents
 
